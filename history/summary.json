@@ -2,7 +2,7 @@
   {
     "name": "SAL",
     "url": "https://sal.vn",
-    "icon": "https://favicons.githubusercontent.com/sal.vn",
+    "icon": "https://sal.vn/images/favicon-32x32.png",
     "slug": "sal",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1575,
-    "timeDay": 1575,
-    "timeWeek": 1575,
-    "timeMonth": 1575,
-    "timeYear": 1575,
+    "time": 1551,
+    "timeDay": 1551,
+    "timeWeek": 1551,
+    "timeMonth": 1551,
+    "timeYear": 1551,
     "dailyMinutesDown": {}
   }
 ]
